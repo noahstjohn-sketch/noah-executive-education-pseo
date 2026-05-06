@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://executive-education.noahstjohn.com/sitemap-index.xml
